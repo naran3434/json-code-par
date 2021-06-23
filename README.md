@@ -1,4 +1,4 @@
-# wilber-code-challenge
+# JSON Code Par
 
 Requirement
   > PHP >= 5.6
